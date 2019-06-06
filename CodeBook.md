@@ -1,8 +1,3 @@
----
-title: "CodeBook.md"
-output: html_document
----
-
 ## Course Project Getting and Cleaning Data
 
 Author: Andrew K
@@ -20,7 +15,7 @@ Codebook
 
 Variable                        Values or Explanation
 
-"subject"	                  		participant id labeled 1:30 
+"subject"                       participant id labeled 1:30 
 "activity"                      LAYING
                                 SITTING
                                 STANDING
@@ -93,4 +88,3 @@ Variable                        Values or Explanation
 "fBodyBodyAccJerkMag-std()"     mean of standard deviation of numeric measurement normalized and bounded within [-1,1]
 "fBodyBodyGyroMag-std()"        mean of standard deviation of numeric measurement normalized and bounded within [-1,1]
 "fBodyBodyGyroJerkMag-std()"    mean of standard deviation of numeric measurement normalized and bounded within [-1,1]
-
