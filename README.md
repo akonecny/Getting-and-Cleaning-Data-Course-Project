@@ -2,7 +2,6 @@
 Repo for the course project for Getting and Cleaning Data
 
 ## README
-The README that explains the analysis files is clear and understandable.
 
 Author: Andrew K
 
