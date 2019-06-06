@@ -20,7 +20,7 @@ Codebook
 
 Variable                        Values or Explanation
 
-"subject"                       participant id labeled 1:30 
+"subject"			participant id labeled 1:30 
 "activity"                      LAYING
                                 SITTING
                                 STANDING
