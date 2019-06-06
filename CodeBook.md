@@ -1,3 +1,8 @@
+---
+title: "CodeBook.md"
+output: html_document
+---
+
 ## Course Project Getting and Cleaning Data
 
 Author: Andrew K
